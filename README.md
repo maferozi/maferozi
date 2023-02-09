@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Muhammad-Asad-Ferozi
-- 👀 I’m interested in Web Development nd DevOps
-- 🌱 I’m currently learning student of computer science
+- 👀 I’m interested in Web Development and DevOps
+- 🌱 I’m currently student of Information Technology in PUCIT.
 - 💞️ I’m looking to collaborate on frontend and backend projects.
-- 📫 How to reach me ...
+- 📫 Contact : +923232312373
+- 📧 E-mail : bitf21m536@pucit.edu.pk
 
 <!---
 Muhammad-Asad-Ferozi/Muhammad-Asad-Ferozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
