@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maferozi" alt="maferozi" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel projects](https://github.com/maferozi/job-listing-laravel)
+- 🔭 I’m currently working on [Mern](https://github.com/maferozi/)
 
-- 🌱 I’m currently learning **Laravel, php, React**
+- 🌱 I’m currently learning **React, Node**
 
-- 👯 I’m looking to collaborate on **New Laravel project**
+- 👯 I’m looking to collaborate on **Mern Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maferozi](https://github.com/maferozi)
 
-- 💬 Ask me about **cpp, python, java, javascript**
+- 💬 Ask me about **cpp, python, java, javascript, React**
 
 - 📫 How to reach me **bitf21m536@pucit.edu.pk**
 
